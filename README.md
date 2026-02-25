@@ -71,19 +71,6 @@ PostgreSQL, MongoDB
 ###
 ---
 
-
-### 📈 What I Like Building
-
-<ul>
-  <li>End-to-end data pipelines</li>
-  <li>Interactive dashboards (real estate, finance, healthcare analytics)</li>
-  <li>ML models for classification, generation, and representation learning</li>
-  <li>Full-stack web applications with clean UI/UX</li>
-  <li>Research-inspired AI projects</li>
-</ul>
-
-
-
 ###
 
 <div align="left">
