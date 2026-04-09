@@ -16,22 +16,6 @@ I’m a Computing Science student passionate about building data-driven solution
   <li>UX-informed software design</li>
 </ul>
 
----
-
-### 🎯 Currently Seeking
-
-<p>
-Internship or co-op opportunities in:
-</p>
-
-<ul>
-  <li>Data Analyst / Business Intelligence</li>
-  <li>Software Development</li>
-  <li>AI / Machine Learning Engineering</li>
-</ul>
-
----
-
 ### 🛠 Technical Skills
 
 <strong>Languages:</strong><br>
