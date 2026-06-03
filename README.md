@@ -24,7 +24,7 @@ Python, SQL, JavaScript/TypeScript, Java
 <br><br>
 
 <strong>Data & Analytics:</strong><br>
-Pandas, NumPy, Power BI, Tableau, Excel (Advanced), ETL Pipelines  
+Pandas, NumPy, Power BI, Tableau, Excel, ETL Pipelines  
 
 <br><br>
 
