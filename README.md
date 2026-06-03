@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Linh — CS Student</h1>
----
-
 ---
 
 ## 💻 Tech Stack
